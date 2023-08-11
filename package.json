@@ -1,0 +1,13 @@
+{
+  "name": "task-now",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "Luis Chavez <luisernestochavezleal@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  }
+}
